@@ -1,0 +1,31 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.Cards {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.Cards img {
+  width: 100%;
+}
+.cards {
+  height: 100vh;
+  padding: 10px;
+  box-shadow: 0px 0px 5px 2px black;
+  text-align: center;
+  width: 300px;
+  border-radius: 7px;
+}
+.cards p {
+  font: 18px;
+  letter-spacing: 1px;
+}
+
+.cards a {
+  background-color: orange;
+  padding: 10px;
+  color: white;
+  text-decoration: none;
+}
